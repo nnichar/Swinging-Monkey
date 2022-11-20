@@ -22,7 +22,7 @@ with stack or queue and using proper Java collection APIs. Recursive methods are
 
 ## Report
 
-- More informations about our program can be found in the file [SwingingMonkey_Report.pdf](https://github.com/nnichar/SwingingMonkey/blob/main/SwingingMonkey_Report.pdf)
+- More informations about our program can be found in the file [SwingingMonkey_Report.pdf](https://github.com/nnichar/SwingingMonkey/blob/main/SwingingMonkey_Report.pdf) (Thai Version)
 
 ## Authors
 
