@@ -26,6 +26,6 @@ with stack or queue and using proper Java collection APIs. Recursive methods are
 
 ## Authors
 
-- [etnk125](https://github.com/etnk125)
-- [nnichar](https://github.com/nnichar)
-- BillyFragfart
+- Natthawee Koengfak ([etnk125](https://github.com/etnk125))
+- Nicharee Chalermsuksri ([nnichar](https://github.com/nnichar)) 
+- Wasawat Pengprakhon
